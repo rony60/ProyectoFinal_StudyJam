@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">TourLaPaz</string>
+
+    <string name="pag_web">Consulta Guias Turisticas</string>
+    <string name="acerca_de">About</string>
+    <string name="CerrarSesion">Cerrar Sesion</string>
+    <string name="salir">Salir</string>
+    <string name="contraseña">contraseña</string>
+    <string name="correo">Ingrese Usuario</string>
+    <string name="NombreCompleto">Nombres y Apellidos</string>
+    <string name="Apellido">Apellidos</string>
+    <string name="ContraseñaDos">Vuelva a escribir la contraseña</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="NcSesion">No Cerrar Sesion</string>
+    <string name="InicioSesion">Iniciar Sesion</string>
+    <string name="InfoApp">TourLaPaz Está desarrollado para todo público en general que quiera saber un poco más sobre la ciudad de La Paz</string>
+    <string name="EnviaOpinion">Envianos tu opinion</string>
+    <string name="Comunica">Comunicate con nosotros</string>
+    <string name="VisitaWeb">Visita paginas de turismo!</string>
+
+    <string name="ImagenGaleria">Galeria de Imagenes</string>
+    <string name="Mini">Como Llegar</string>
+    <string name="TituloDescripcion">Descripcion</string>
+
+
+    <string name="NomSanfra">Iglesia de San Francisco</string>
+    <string name="NomLuna">Valle de La Luna</string>
+    <string name="NomMuela">La Muela del Diablo</string>
+    <string name="NomBrujas">Calle de las Brujas</string>
+    <string name="NomJaen">Calle Jaen</string>
+    <string name="NomHampaturi">Cascadas de Hampaturi</string>
+    <string name="NomAnimas">Valle de las Animas</string>
+
+    <string name="TomarMini">¿Donde debo Tomar Movilidad Para Llegar?</string>
+
+
+
+    <string name="TomarTaxi">¿Desea tomar un Taxi? comuniquese con estas empresas de Radio Taxis</string>
+    <string name="UbiBruja">La linea de minibus del areopuerto CONTRANSTUR de bajada al centro. (Justo detras de la iglesia San Francisco)</string>
+    <string name="UbiSanfra">La linea de minibus del areopuerto CONTRANSTUR de bajada al centro.</string>
+    <string name="UbiHampa">El albergue ecoturístico de Pampalarama se encuentra a 5 minutos de la Comunidad Originaria Chacaltaya.</string>
+    <string name="UbiMuela">Minibús 288, hasta la urbanización El Pedregal y minibuses que van hacia Los Pinos.</string>
+    <string name="UbiLuna">Bus de la línea 11 (Av. Mariscal Santa Cruz). Minibuses 231 y 273 (calle México).</string>
+    <string name="UbiJaen">Minibus de la Ceja con direccion a Villa Fatima. Av. Armentia lado Museo Costumbrista </string>
+    <string name="UbiAnimas">Bus de la línea 48 y transporte interprovincial que va a Palca (calle Lara esquina Boquerón, San Pedro), además del Microbús 42 de la Av. 16 de Julio, El Prado.</string>
+
+
+    <string name="Taxi1">Radio Taxi Extremo</string>
+    <string name="Taxi2">Radio Taxi City La Paz</string>
+    <string name="Taxi3">Radio Taxi Obrajes</string>
+
+
+    <string name="NomCoroico">Coroico</string>
+    <string name="UbiCoroico">Existe el servicio público de buses y minibuses, que salen de la zona de Villa Fátima en la Ciudad de La Paz.</string>
+    <string name="NomMallasa">Mallasa</string>
+    <string name="UbiMallasa">Bus 11 (Av. Mariscal Santa Cruz) o minibús N° 231 y 273 (calle México).</string>
+    <string name="NomCopacabana">Copacabana</string>
+    <string name="UbiCopacabana">Vía terrestre desde La Paz por carretera asfaltada. Existe la posibilidad de tomar buses públicos desde la zona del Cementerio en la ciudad de La Paz.</string>
+
+    <string name="DescripcionCoroico">
+        Se denomina yungas a los valles fértiles situados entre las quebradas del flanco nororiental de la Cordillera Real. A 26 km de la ciudad de La Paz se encuentra la Cumbre, en la que se yerguen cimas eternamente nevadas. Desde este punto se va en descenso y se puede apreciar el cambio del panorama y del paisaje. El aire se hace más tibio y la vegetación se transforma; luego de tres horas de viaje ya se percibe por doquier huertos de naranjos, mandarinas, pomelos, limones y una exuberante vegetación propia de climas cálidos.
+
+Los yungas de Coroico son valles tropicales y húmedos con montes elevados cubiertos de tupida vegetación y ríos caudalosos que ofrecen la posibilidad de disfrutar de un ambiente natural único y acogedor en medio de vegetación y clima tropicales. Congrega a grupos sociales de diferentes orígenes como aymaras, afrobolivianos y mestizos, los cuales conviven por el progreso de la región, siendo que en enero del 2004, Coroico ha sido declarado "Primer Municipio Turístico de Bolivia".
+
+La vegetación es variada y abundante, con grandes plantaciones de café, coca y cítricos. Amplia variedad de aves (loros, palomas, perdices, uchis) y mamíferos (chancho de monte, monos, venados) etc. El pueblo de Coroico es el lugar turístico más visitado de los Yungas y se ubica en una pequeña meseta del cerro Uchumachi, flanqueado por los ríos Coroico, Santa Bárbara y Vagantes.
+
+Desde el Uchumachi se tiene un panorama completo de toda la región. Entre los paseos que se pueden realizar está la caminata al Vagantes, un río que tiene pozas naturales, el camino precolombino de Chukura Apacheta y senderos por los alrededores del pueblo. La temporada recomendable es de junio a septiembre.
+
+    </string>
+
+
+    <string name="DescripcionMallasa">
+        Este parque es un área de esparcimiento y recreación, que se encuentra muy cerca del radio urbano de la ciudad de La Paz. Se trata de una amplia meseta de suave declive que alberga a gran cantidad de eucaliptos, en medio de los cuales existen áreas verdes para la práctica deportiva y recreación al aire libre. Dentro de su superficie se encuentra el valle de la Luna y el valle de Valencia, este último se trata de una apacible localidad de clima agradable que se puede visitar todo el año.
+
+Uno de los lugares que también se encuentra dentro de este parque es el Zoológico Municipal Vesty Pakos, de 22.4 hectáreas, el cual muestra una interesante colección de especies nativas de los Andes, entre las que están el jucumari (oso andino), el cóndor, el quirquincho y especies del trópico como el anta, el jaguar americano, tucanes, parabas y otras. En la actualidad el Zoológico Municipal Vesty Pakos es el centro de conservación ex situ más grande e importante del país. Valle de la Luna, Zoológico Municipal Vesty Pakos y Valle de Valencia.
+
+    </string>
+    <string name="DescripcionCopacabana">
+        La región de Copacabana se encuentra a orillas del Lago Titikaka, cuna de las más importantes civilizaciones andinas. En la región habitan 33 comunidades campesinas originarias, en su mayoría de origen Aymara y Quechua. El Lago Titikaka, considerado sagrado por sus habitantes, fue habitado por las culturas prehispánicas Chiripa, Wancarani, Tiwanaku, Inca, Aymara y otras, en distintos períodos.
+
+Copacabana es uno de los centros turísticos más importantes del país, que ofrece vistosos paisajes, bien presentados a primera vista por las dos colinas que enmarcan la población, siendo que dentro de ella resaltan la blancas paredes y la torre de la Basílica de Copacabana, que se conjuncionan perfectamente con el azul intenso del lago Titikaka.
+
+    </string>
+
+
+
+
+    <string name="Descripcion_animas">Paisaje geológico de gran magnitud e imponencia, que conforma la cima de las serranías del sureste de la ciudad. Sus formaciones de rocas erosionadas agrupadas en hileras y racimos muestran centenares de picos o agujas que se elevan a gran altura; algunos de ellos se asemejan a órganos musicales de gigantes tubos y otras parecen ánimas petrificadas. La vegetación es escasa, en su mayoría pajonales con arbustos bajos. En cuanto a la fauna, sólo se observan algunas aves como los gorriones y marías.
+La meseta y la laguna de las Ánimas brindan una vista excepcional del Illimani y de otros nevados de la cordillera. Se encuentra en Ovejuyo, a 4 km. de la zona de Cota Cota.
+</string>
+    <string name="Descripcion_brujas">La Paz es un escenario de múltiples historias, donde el mito y la leyenda perviven en calles, avenidas, zonas y lugares. Uno de estos escenarios místicos es el mercado de Las Brujas, que comprende las calles Santa Cruz, Illampu, Linares y Sagárnaga.
+En este mercado se encuentran todo tipo de amuletos y objetos tradicionales, que pueden ser comprados como remedio para los males. Plantas curativas y protectoras, artículos de lucha contra los malos espíritus presentes en la cosmovisión aymara, así como fetos de llama usados para proteger las casas nuevas, están todos en exposición y a la venta junto con otros objetos.
+</string>
+    <string name="Descripcion_jaen">Historias acerca de duendes, fantasmas y apariciones hacen de esta calle un lugar sin igual.
+La colonial calle Jaén es conocida como “La calle de los duendes” o “La calle de los fantasmas”, por las muchas tradiciones que de ella se desprenden y por las miles de leyendas que se desarrollaron alrededor de su historia.
+Es la única calle que se conserva prácticamente igual desde la Colonia. En sus aproximadamente cien metros, alberga casas que, alguna vez, fueron habitadas por insignes paceños, entre ellos, don Pedro Domingo Murillo, protomártir de la Independencia que murió colgado por haber instaurado, junto con otros valientes, el primer gobierno criollo autónomo de la América hispana.
+</string>
+    <string name="Descripcion_luna">Muy cerca de la ciudad de La Paz se encuentra el Valle de La Luna, un lugar que desafía la imaginación del visitante, generándole la sensación de estar en un pequeño páramo de la luna. Sus formas son producto de la erosión y asemejan cráteres volcánicos.
+Muy cerca se encuentra el parque de cactus denominado cactario en cuyo recorrido se observa una variada colección de especies de cactáceas y bromeliáceas. Sus predios permiten esparcimiento y descanso a los habitantes.
+</string>
+    <string name="Descripcion_muela">Gran mirador en las afueras de la ciudad, con una elevación rocosa monolítica natural de 150 metros de altura, que se destaca en el entorno paisajístico de la zona sur de La Paz. Tiene forma de una gran muela, siendo esa la razón de su nombre, además de leyendas del lugar. El sendero de acceso al atractivo mirador parte desde la zona del Pedregal; ascendiendo a la cima se tiene una vista única de la ciudad y sus alrededores. La vegetación consiste en pastizales y arbustos bajos. En cuanto a la fauna, se tienen algunas aves como los gorriones y el ave María. Se recomienda su visita durante todo el año, excepto en época de lluvias.</string>
+    <string name="Descripcion_pampa">Si lo suyo es disfrutar de la tranquilidad y vegetación, el macrodistrito rural de Hampaturi (oeste de La Paz) posee diversos atractivos turísticos como la laguna de Pampalarama, varias represas y plantas hidráulicas que abastecen de agua y energía a la ciudad.
+Para llegar a la zona se debe ir en vehículo particular por la autopista La Paz-El Alto y desviarse por la zona de la Urbanización Autopista. El viaje demora entre 40 minutos y una hora.
+En el camino se pueden ver rebaños de camélidos y cascadas. El albergue ecoturístico de Pampalarama se encuentra a cinco minutos de la comunidad originaria Chacaltaya. </string>
+    <string name="Descripcion_sanfra">El templo y el convento fueron construidos con piedra labrada y concluidos a mediados del siglo XVIII; la fachada de la iglesia de San Francisco corresponde al estilo barroco.
+La torre fue construida en 1885. El interior, también de estilo barroco, tiene una planta de tres naves, separadas con bóveda de cañón y cúpula de media naranja, con cuatro ventanas en el crucero. Se terminó en 1753 y la construcción duró 40 años. Su retablo es famoso por la fina trama de su talla, tratado en pan de oro. La iglesia también cuenta con una pinacoteca que presenta una valiosa colección de obras artísticas renacentistas, manieristas, barrocas, mestizas y neoclásicas.  Arquitectura y escultura barroca; pinturas renacentistas, manieristas, barrocas, mestizas y neoclásicas.
+</string>
+</resources>

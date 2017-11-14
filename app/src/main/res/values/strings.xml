@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">TourLaPaz</string>
+
+    <string name="pag_web">Consult Tourist Guides</string>
+    <string name="acerca_de">About</string>
+    <string name="CerrarSesion">Sign off</string>
+    <string name="salir">Get Out</string>
+    <string name="contraseña">Password</string>
+    <string name="correo">Enter User</string>
+    <string name="NombreCompleto">Names and surnames</string>
+    <string name="Apellido">Apellidos</string>
+    <string name="ContraseñaDos">White the password again</string>
+    <string name="Registrarse">Check in</string>
+    <string name="NcSesion">Do not sign out</string>
+    <string name="InicioSesion">Log in</string>
+    <string name="InfoApp">TourLaPaz It is developed for all general public who want to know a little more about the city of La Paz</string>
+    <string name="EnviaOpinion">Send us your opinion</string>
+    <string name="Comunica">Comunicate with us</string>
+    <string name="VisitaWeb">Visit tourism pages</string>
+
+    <string name="ImagenGaleria">Image Gallery</string>
+    <string name="Mini">How To Get</string>
+    <string name="TituloDescripcion">Description</string>
+
+
+    <string name="NomSanfra">Church of San Francisco</string>
+    <string name="NomLuna">Calley og the moon </string>
+    <string name="NomMuela">Devil`s tooth</string>
+    <string name="NomBrujas">Street of the Witches</string>
+    <string name="NomJaen">Jaen Street</string>
+    <string name="NomHampaturi">Hampaturi Waterfalls</string>
+    <string name="NomAnimas">Valley of the Animas</string>
+
+    <string name="TomarMini">Where should I take Mobility to get there?</string>
+    <string name="TomarTaxi">Do you want to take a Taxi? Contact these Radio Taxis companies</string>
+    <string name="UbiBruja">The COTRANSTUR airport minibus line going down to the center. (Just behind San Francisco church)</string>
+    <string name="UbiSanfra">The COTRANSTUR airport minibus line going down to the center.</string>
+    <string name="UbiHampa">Pampalarama ecotourism lodge is 5 minutes from the Chacaltaya Original Community.</string>
+    <string name="UbiMuela">Mini Bus 288, to El Pedregal urbanization and minibuses that go to Los Pinos.</string>
+    <string name="UbiLuna">Bus line 11 (Av. Mariscal Santa Cruz). Minibuses 231 and 273 (Mexico Street).</string>
+    <string name="UbiJaen">Minibus de la Ceja with address to Villa Fatima. Av. Armentia side Costumbrista Museum </string>
+    <string name="UbiAnimas">Bus line 48 and interprovincial transport that goes to Palca (Lara street, Boquerón corner, San Pedro), in addition to Minibus 42 of Av. 16 de Julio, El Prado.</string>
+
+
+    <string name="Taxi1">Extreme Taxi Radio</string>
+    <string name="Taxi2">Radio Taxi City La Paz</string>
+    <string name="Taxi3">Radio Taxi Obrajes</string>
+
+
+    <string name="NomCoroico">Coroico</string>
+    <string name="UbiCoroico">There is a public bus and minibus service, which depart from the area of ​​Villa Fátima in the City of La Paz.</string>
+    <string name="NomMallasa">Mallasa</string>
+    <string name="UbiMallasa">Bus 11 (Av. Mariscal Santa Cruz) or minibus No. 231 and 273 (Mexico Street).</string>
+    <string name="NomCopacabana">Copacabana</string>
+    <string name="UbiCopacabana">Land route from La Paz by paved road. There is the possibility of taking public buses from the Cemetery area in the city of La Paz.</string>
+
+    <string name="DescripcionCoroico">
+        Yungas are the fertile valleys located between the ravines of the northeastern flank of the Cordillera Real. 26 km from the city of La Paz is the Summit, where eternally snow-capped peaks stand. From this point it goes downhill and you can appreciate the change of scenery and landscape. The air becomes warmer and the vegetation changes; After three hours of travel, orange groves, tangerines, grapefruit, lemons and lush vegetation typical of warm climates can be seen everywhere.
+
+The yungas of Coroico are tropical and humid valleys with high mountains covered with dense vegetation and fast flowing rivers that offer the possibility of enjoying a unique and cozy natural environment amid tropical vegetation and climate. It brings together social groups of different origins such as Aymaras, Afro-Bolivians and mestizos, which coexist for the progress of the region, being that in January 2004, Coroico has been declared "First Tourist Municipality of Bolivia".
+
+The vegetation is varied and abundant, with large plantations of coffee, coca and citrus. Wide variety of birds (parrots, pigeons, partridges, uchis) and mammals (mountain pig, monkeys, deer) etc. The town of Coroico is the most visited tourist place of the Yungas and is located on a small plateau of the Uchumachi hill, flanked by the Coroico, Santa Bárbara and Vagantes rivers.
+
+From the Uchumachi you have a complete panorama of the entire region. Among the walks that can be done is the walk to the Vagantes, a river that has natural pools, the pre-Columbian road of Chukura Apacheta and trails around the town. The recommended season is from June to September.
+    </string>
+
+
+    <string name="DescripcionMallasa">
+        This park is an area of ​​leisure and recreation, which is very close to the urban radius of the city of La Paz. It is a wide plateau of gentle decline that houses a large number of eucalyptus, among which there are green areas for outdoor sports and recreation. Within its surface is the Valley of the Moon and the Valley of Valencia, the latter is a peaceful town with a pleasant climate that can be visited all year round.
+
+One of the places that is also inside this park is the Vesti Pakos Municipal Zoo, 22.4 hectares, which shows an interesting collection of native species of the Andes, among which are the jucumari (Andean bear), the condor, the quirquincho and species of the tropics such as the anta, the American jaguar, toucans, parabas and others. At present, the Vesty Pakos Municipal Zoo is the largest and most important ex situ conservation center in the country. Valle de la Luna, Vesty Pakos Municipal Zoo and Valencia Valley.
+    </string>
+    <string name="DescripcionCopacabana">
+        The Copacabana region is located on the shores of Lake Titikaka, the cradle of the most important Andean civilizations. In the region there are 33 original peasant communities, mostly of Aymara and Quechua origin. The Titikaka Lake, considered sacred by its inhabitants, was inhabited by the pre-Hispanic cultures Chiripa, Wancarani, Tiwanaku, Inca, Aymara and others, in different periods.
+
+Copacabana is one of the most important tourist centers of the country, offering colorful landscapes, well presented at first sight by the two hills that frame the population, being that within it the white walls and the tower of the Basilica of Copacabana stand out. they combine perfectly with the intense blue of Lake Titikaka.
+    </string>
+
+
+
+
+
+    <string name="Descripcion_animas">
+Geological landscape of great magnitude and imposing, which forms the top of the mountains of the southeast of the city. Its eroded rock formations grouped in rows and clusters show hundreds of peaks or spiers that rise to great heights; some of them resemble musical organs of giant pipes and others look like petrified souls. The vegetation is sparse, mostly pajonales with low shrubs. As for the fauna, only some birds such as sparrows and mares are observed.
+The plateau and lagoon of Las Animas provide an exceptional view of Illimani and other snowcapped mountains. It is located in Ovejuyo, 4 km away. from the Cota Cota area.
+</string>
+    <string name="Descripcion_brujas">
+        La Paz is a scenario of multiple stories, where myth and legend survive in streets, avenues, areas and places. One of these mystical scenarios is the Las Brujas market, which includes Santa Cruz, Illampu, Linares and Sagárnaga streets.
+In this market you will find all kinds of amulets and traditional objects, which can be bought as a remedy for evils. Curative and protective plants, items to combat the evil spirits present in the Aymara cosmovision, as well as llama fetuses used to protect new homes, are all on display and for sale along with other objects.
+    </string>
+    <string name="Descripcion_jaen">
+
+Stories about goblins, ghosts and apparitions make this street a place like no other.
+The colonial street Jaén is known as "The street of the goblins" or "Street of the ghosts", because of the many traditions that come from it and the thousands of legends that developed around its history.
+It is the only street that remains practically the same since the Colony. In its approximately one hundred meters, it houses houses that were once inhabited by famous Patagonians, among them, Don Pedro Domingo Murillo, protomartyr of Independence who died hanged for having established, along with other brave, the first autonomous creole government of the Hispanic America
+    </string>
+    <string name="Descripcion_luna">
+
+Very close to the city of La Paz is the Valley of the Moon, a place that challenges the imagination of the visitor, generating the sensation of being in a small moor of the moon. Its forms are the product of erosion and resemble volcanic craters.
+Nearby is the cactus park called Cactario, where you can see a varied collection of cacti and bromeliad species. Its premises allow recreation and rest to the inhabitants.
+    </string>
+    <string name="Descripcion_muela">
+
+Great viewpoint on the outskirts of the city, with a natural monolithic rocky elevation of 150 meters high, which stands out in the landscape of the southern area of ​​La Paz. It has the shape of a large molar, which is the reason for its name, as well as legends of the place. The access path to the attractive viewpoint starts from the Pedregal area; ascending to the top you have a unique view of the city and its surroundings. The vegetation consists of grasslands and low shrubs. As for the fauna, there are some birds such as sparrows and the bird María. Its visit is recommended throughout the year, except in the rainy season.</string>
+    <string name="Descripcion_pampa">
+
+If your thing is to enjoy the tranquility and vegetation, the rural macrodistrict of Hampaturi (west of La Paz) has several tourist attractions such as the Pampalarama lagoon, several dams and hydraulic plants that supply water and energy to the city.
+To get to the area you must go by private vehicle on the highway La Paz-El Alto and detour through the area of ​​the Urbanization Highway. The trip takes between 40 minutes and an hour.
+On the way you can see herds of camelids and waterfalls. The Pampalarama ecotourism lodge is located five minutes from the original Chacaltaya community.
+    </string>
+    <string name="Descripcion_sanfra">
+       The temple and the convent were built with carved stone and completed in the mid-eighteenth century; the facade of the church of San Francisco corresponds to the baroque style.
+The tower was built in 1885. The interior, also in Baroque style, has a floor plan with three naves, separated by a barrel vault and a half-orange dome, with four windows on the transept. It was finished in 1753 and the construction lasted 40 years. His altarpiece is famous for the fine pattern of its size, treated in gold leaf. The church also has a pinacoteca that presents a valuable collection of Renaissance, Mannerist, Baroque, mestizo and neoclassical works of art. Baroque architecture and sculpture; Renaissance, Mannerist, Baroque, Mestizo and Neoclassical paintings.
+</string>
+
+</resources>

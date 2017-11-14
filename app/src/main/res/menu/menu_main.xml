@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item android:id="@+id/pag_web" android:title="@string/pag_web"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/iconweb"/>
+    <item android:id="@+id/acerca_de" android:title="@string/acerca_de"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/iconacerca"/>
+    <item android:id="@+id/cerrarSesion" android:title="@string/CerrarSesion"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/iconsalir"
+        />
+    <item android:id="@+id/salir" android:title="@string/salir"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/iconsalir"
+        />
+
+
+
+</menu>

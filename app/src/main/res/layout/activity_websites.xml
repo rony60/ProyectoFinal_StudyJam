@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/lapaznoche"
+    android:orientation="vertical"
+    tools:context="com.example.usuario.tourlapaz.WebsitesActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/VisitaWeb"
+        android:textColor="#fff"
+        android:textSize="30dp"
+        android:layout_marginBottom="20dp"/>
+    <LinearLayout
+        android:id="@+id/PaginaWeb1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageButton
+
+            android:layout_width="0dp"
+            android:layout_height="99dp"
+            android:background="#11ffffff"
+            android:layout_weight="1"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/www"
+            android:scaleType="fitCenter"/>
+        <TextView
+            android:id="@+id/nombrePag1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Turismo La Paz"
+            android:textColor="#FFFF"
+            android:textSize="40sp"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/PaginaWeb2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageButton
+
+            android:layout_width="0dp"
+            android:layout_height="99dp"
+            android:background="#11ffffff"
+            android:layout_weight="1"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/www"
+            android:scaleType="fitCenter"/>
+        <TextView
+            android:id="@+id/nombrePag2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bolivia Turismo"
+            android:textColor="#FFFF"
+            android:textSize="40sp"
+            />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/PaginaWeb3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageButton
+
+            android:layout_width="0dp"
+            android:layout_height="99dp"
+            android:background="#11ffffff"
+            android:layout_weight="1"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/www"
+            android:scaleType="fitCenter"/>
+        <TextView
+            android:id="@+id/nombrePag3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Catacora Tour"
+            android:textColor="#FFFF"
+            android:textSize="44sp"
+            />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/PaginaWeb4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageButton
+
+            android:layout_width="0dp"
+            android:layout_height="99dp"
+            android:background="#11ffffff"
+            android:layout_weight="1"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/www"
+            android:scaleType="fitCenter"/>
+        <TextView
+            android:id="@+id/nombrePag4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bolivia En Tus Manos"
+            android:textColor="#FFFF"
+            android:textSize="28sp"
+            />
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
